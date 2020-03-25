@@ -13,7 +13,7 @@ The tests that should be applied to any PullRequest is:
 
 * `--idna` Ensure all punycoded domains are converted
 * `--syntax` Varify submitted domains is valid
-* `--dns` Using a CI installed local DNS recursor liek [dnsdist](https://dnsdist.org/)
+* `--dns` Using a CI installed local DNS recursor like [dnsdist](https://dnsdist.org/)
 * `--databse mariadb` To store PyFunceble test results to your next submission.
 * `--hierarchical` keeping related domains collected around each other.
 
@@ -21,8 +21,8 @@ The tests that should be applied to any PullRequest is:
 Currently this is the first template which just has made it's import face from a 
 working copy.
 
-@spirillen is working on the `pull_request.sh` script on a local enviroment.
+@spirillen is working on the `pull_request.sh` script on a local environment.
 
-Once his script is ready for testing the procress will continue.
+Once his script is ready for testing the process will continue.
 
-Have fun, and don't hasitate to contribute.
+Have fun, and don't hesitate to contribute.
